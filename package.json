@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "firebase": "^10.7.0",
-    "react-router-dom": "^6.20.1"
-  }
-}
